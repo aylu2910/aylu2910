@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-👩🏻‍💻 Backend developer at Mercado Libre<br>📓 Software Engineering Student<br> 🖥 Passionate about technology<br><br>Favorite phrase ever:<br>"Just because something works doesn't mean it can't be improved" ⚙️ <br> If you would like to get in touch, please contact me via linkedin!<br>
+👩🏻‍💻 Backend developer at Mercado Libre with Business Analyst background<br>📓 Software Engineering Student<br> 🖥 Passionate about technology<br><br>Favorite phrase ever:<br>"Just because something works doesn't mean it can't be improved" ⚙️ <br> If you would like to get in touch, please contact me via linkedin!<br>
 
 
 ## 🌐 Socials:
